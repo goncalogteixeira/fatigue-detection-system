@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250592378809",
+    "project_id": "flutterwatch",
+    "storage_bucket": "flutterwatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250592378809:android:f5c4a152ec7dafc15fc068",
+        "android_client_info": {
+          "package_name": "dev.rexios.workout_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250592378809-mtfrb4a5oihnf2ptthsvponjj4170i4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_U0h3Ogd6U7JUxJhA5r4IqlcHBrIMY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250592378809-mtfrb4a5oihnf2ptthsvponjj4170i4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
